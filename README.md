@@ -1,0 +1,3 @@
+# Qeats-Social-Review
+
+QEats is a popular food ordering app. It gives users a list of nearby restaurants and popular dishes. Users can use the app to order their favourite dishes from restaurants of their choice. Millions of users across the country have been using the QEats app to satisfy their hunger and taste buds.  - The most requested feature on QEats is the ability to share reviews on past orders on QEats' social media pages. Users want to click a photo of the orders they have received, write eye-catching captions and add relevant tags to make their reviews easily discoverable.  - The QEats team is relying on your expertise to implement this Reviews feature.
